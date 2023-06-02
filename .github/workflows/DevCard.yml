@@ -1,5 +1,5 @@
 permissions:
-  contents:write
+  contents: write
   
 on:
   workflow_dispatch:
